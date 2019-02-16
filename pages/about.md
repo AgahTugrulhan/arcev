@@ -7,20 +7,19 @@ permalink: "/about/"
 ---
 
 <p>
-    The IoT Initiative is a joint effort by a number of organisations from within the University of Edinburgh, including Information Services, the School of Informatics, and Corporate Services. It is supported by City of Edinburgh Council and several private sector organisations.
+    ARÇEV was founded in 2014 with the aim of bringing the professional and sectorial experience to the students. 
 </p>
 <ul class="small-block-grid-2">
     <li>
         <h3>IoT Programme Board</h3>
         <div class="panel">
-            The Programme Board is responsible for overseeing the University’s IoT Programme and for giving consideration and guidance regarding programme implementation activities and projects, 
-            ensuring these deliver against the IoT Programme Strategy.
+            As a community, we have valued knowledge and helped disseminate new ideas by organizing international and interdisciplinary conferences in various topics such as machine translation, literary translation, conference interpreting etc.
 </div>
 </li>
     <li>
         <h3>IoT Action Groups</h3>
         <div class="panel">
-        	The IoT Initiative is multi-disciplinary and is being delivered with expertise and oversight drawn from across the University through a number of focused Action Groups:
+        	With over 100 members, we continue to grow and flourish in our congenial environment, always looking to do more.
             <ul>
                 <li>Security and Privacy</li>
                 <li>Governance and Ethics</li>

@@ -21,8 +21,8 @@ The pilot allowed us to build and demonstrate our capability with IoT infrastruc
 
 <div class="t60">
     <ul class="clearing-thumbs small-block-grid-2" data-clearing>   
-        <li><img src="https://github.com/AgahTugrulhan/arcev/tree/gh-pages/images/red-estimote.jpg"></li>
-        <li><img src="https://github.com/AgahTugrulhan/arcev/tree/gh-pages/images/ah-doorsign.jpg"></li>
+        <li><img src="{{ site.urlimg }}/red-estimote.jpg"></li>
+        <li><img src="{{ site.urlimg }}/ah-doorsign.jpg"></li>
           
     </ul>
 </div>
