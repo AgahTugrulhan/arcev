@@ -19,13 +19,7 @@ We carried out a Privacy Impact Assessment in which we were careful to demonstra
 The pilot allowed us to build and demonstrate our capability with IoT infrastructure, as well as giving us an understanding of how the environment in Argyle House performs.   
 
 
-<div class="t60">
-    <ul class="clearing-thumbs small-block-grid-2" data-clearing>   
-        <li><img src="{{ site.urlimg }}/red-estimote.jpg"></li>
-        <li><img src="{{ site.urlimg }}/ah-doorsign.jpg"></li>
-          
-    </ul>
-</div>
+
 
 
 
