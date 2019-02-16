@@ -1,0 +1,21 @@
+- menu_name: "Credits"
+
+- name: "Icons by Daniel Bruce"
+  url: "http://entypo.com/"
+  class: "network-entypo"
+  title: "Icons by Daniel Bruce"
+
+- name: "Icons by the Noun Project"
+  url: "http://thenounproject.com/"
+  class: "network-entypo"
+  title: "Icons by the Noun Project"
+
+- name: "Built on Foundation"
+  url: "http://foundation.zurb.com/"
+  class: "services-newsletter"
+  title: "Built on Foundation"
+
+- name: "Backstretch by Scott Robbin"
+  url: "http://srobbin.com/jquery-plugins/backstretch/"
+  class: "sitemap-link"
+  title: "Using Backstretch by Scott Robbin"

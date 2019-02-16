@@ -1,0 +1,55 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: "IoT Service"
+  url: "/service/"
+  side: left
+
+- title: "IoT Initiative"
+  url: "/initiative/"
+  side: left
+  dropdown:
+  - title: "Strategy"
+    url: "/initiative/"
+  - title: "Network Coverage"
+    url: "/gateways/"
+  - title: "Roadmap"
+    url: "/roadmap/"
+  - title: "Privacy and Security"
+    url: "/privacy/"    
+
+
+- title: "Projects"
+  url: "/projects/"
+  side: left
+
+- title: "Events"
+  url: "/events/"
+  side: left 
+  dropdown:
+  - title: "Forthcoming"
+    url: "/events/"
+  - title: "Past Events"
+    url: "/past_events/"
+
+- title: "About"
+  url: "/about/"
+  side: left
+
+- title: "Blog"
+  url: "/blog/"
+  side: left 
+
+# - title: "IoT Challenge"
+#   url: "/iotchallenge/"
+#   side: left
+
+
+# - title: "Subscribe to mailing list"
+#   url: "https://mlist.is.ed.ac.uk/lists/subscribe/iot"
+#   side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
