@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 'Argyle House'
-teaser: "Monitoring environment conditions and occupancy in meeting rooms"
+title: 'Discuss+'
+teaser: "We provide a platform to those who do not have a platform to make themselves heard. Ideas are discussed, differences are celebrated"
 image: 
     title: libelium.jpg
     thumb: chair.png
 show_meta: true
 category: Project
-tags: [building management, room occupancy, indoor sensors, environmental monitoring, UoE pilot, devices in the workplace]
+tags: [Discuss, new ideas, tedx-like event, arcev discuss plus]
 ---
 
 As part of a broad plan for estates management by the University of Edinburgh, several hundreds of operations staff who had been scattered across multiple sites were recently rehoused in open-plan offices in a refurbished 60s office block (Argyle House).  The ground floor of the premises was remodelled to contain an assortment of large and small meeting rooms.  In order to give building managers more information about occupancy and environmental conditions, we carried out a pilot project with multiple networked devices. 
