@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: banner.jpg
 widget1:
-  title: "What is IoT?"
+  title: "What is ARÇEV?"
 # url: ''
 # image: ''
-  text: 'The Internet of Things (IoT) covers a wide spectrum of application, including the detailed real-time sensing of our environment and the embedding of connected intelligence into everyday objects.'
+  text: 'ARÇEV stands for Istanbul Arel University Translation Club. It is a student community organizing international events to contribute to the translation sector and discipline.  '
 widget2:
   title: "What are we offering?"
 #  url: ''
 # image: ''
-  text: 'The University’s IoT Initiative is establishing an IoT Research and Innovation Service, initially using LoRaWAN technology, to help you easily run your IoT project.'
+  text: 'We follow the latest developments in the translation field to be able to provide the best experience for our audience. With our experienced team, we are committed to delivering the best content available to the sector. Machine translation, literary translation, conference interpreting are among the hot topics that we currently deal with. '
 widget3:
   title: "Who is it for?"
 #  url: ''
 #  image: ''
-  text: 'The IoT Research and Innovation Service is a shared resource, open to a wide range of innovation partners and available to support research and teaching within the University.'
+  text: 'We are quite friendy. Our community is open to everyone with new ideas that require a stage. Furthermore, our organization welcomes any participation from partners that play a central role in financing our events.'
 #
 # Use the call for action to show a button on the frontpage
 #
