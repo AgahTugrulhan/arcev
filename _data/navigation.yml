@@ -2,18 +2,16 @@
   url: "/"
   side: left
 
-- title: "IoT Service"
+- title: "E-magazine"
   url: "/service/"
   side: left
 
-- title: "IoT Initiative"
+- title: "ARÇEV+"
   url: "/initiative/"
   side: left
   dropdown:
   - title: "Strategy"
     url: "/initiative/"
-  - title: "Network Coverage"
-    url: "/gateways/"
   - title: "Roadmap"
     url: "/roadmap/"
   - title: "Privacy and Security"
